@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+        id="lesson1"
+        name="ModelDriven Lesson 5"
+        version="1.0"
+        provider-name="modeldriven.hu"
+        class="hu.modeldriven.cameo.Lesson5Plugin">
+
+    <requires>
+        <api version="1.2"/>
+    </requires>
+
+    <runtime>
+        <library name="lesson5.jar"/>
+    </runtime>
+</plugin>
