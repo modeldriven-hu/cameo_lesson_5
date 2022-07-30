@@ -28,7 +28,7 @@
         <artifactId>maven-assembly-plugin</artifactId>
         <version>2.6</version>
         <configuration>
-          <finalName>hu.modeldriven.cameo.lesson1</finalName>
+          <finalName>hu.modeldriven.cameo.lesson5</finalName>
           <appendAssemblyId>false</appendAssemblyId>
           <descriptors>
             <descriptor>src/main/assembly/assembly.xml</descriptor>
